@@ -1,4 +1,11 @@
-# SkillCrucial React Redux boilerplate
+# Online-store
+
+## Setting Up environment
+
+1. Yarn
+2. OhMyZsh
+3. Git
+3. Google Chrome or Safari
 
 ## Quick start
 
